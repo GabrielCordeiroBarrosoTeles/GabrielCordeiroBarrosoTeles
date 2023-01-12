@@ -26,3 +26,4 @@
   
    ![Snake animation](https://github.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/blob/output/github-contribution-grid-snake.svg)
 </div>
+ 
