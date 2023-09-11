@@ -1,4 +1,4 @@
-## Oiii eu sou o Gabriel Cordeiro, estudante de programação!
+## Hi, I'm Gabriel Cordeiro, programming student!
 <div align="center">
   <a href="https://github.com/GabrielCordeiroBarrosoTeles">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCordeiroBarrosoTeles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
