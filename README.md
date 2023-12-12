@@ -27,4 +27,13 @@
   
    ![Snake animation](https://github.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+ ### Guia de ABAP
+   - [Link do ALV]( https://github.com/GabrielCordeiroBarrosoTeles/ALV-ABAP)
+   - [Link do FIELD-MODULE-ON-INPUT](https://github.com/GabrielCordeiroBarrosoTeles/FIELD-MODULE-ON-INPUT)
+   - [Link do Trace (ST05)](https://github.com/GabrielCordeiroBarrosoTeles/Trace-the-ST05-in-ABAP)
+   - [Link do Enhancements](https://github.com/GabrielCordeiroBarrosoTeles/Enhancements-In-ABAP)
+   - [Link do Sets](https://github.com/GabrielCordeiroBarrosoTeles/Using-Sets-in-ABAP-Program)
+   - [Link do Cores no ABAP](https://github.com/GabrielCordeiroBarrosoTeles/Cores-no-ABAP)
+   - [Link da Calculadora](https://github.com/GabrielCordeiroBarrosoTeles/Calculadora-em-ABAP)
  
