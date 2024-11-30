@@ -14,26 +14,26 @@
 ### 🛠️ Skills
 
 <div align="center">
-  <!--Angular-->
-  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Angular-Dark.svg"></code>
-  <!--Git-->
-  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"></code>
-  <!--Bootstrap-->
-  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg"></code>
+  <!--ABAP-SAP-->
+  <code><img height="45" src="https://github.com/GabrielCordeiroBarrosoTeles/img/blob/main/imagem_2024-11-29_234458235.png?raw=true"></code>
   <!--HTML-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"></code>
   <!--CSS-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"></code>
+   <!--Bootstrap-->
+  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg"></code>
   <!--JS-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"></code>
-  <!--Nodejs-->
-  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg"></code>
   <!--Typescript-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg"></code>
+  <!--Nodejs-->
+  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg"></code>
   <!--React-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg"></code>
   <!--Vuejs-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg"></code>
+  <!--Angular-->
+  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Angular-Dark.svg"></code>
   <!--Go-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg"></code>
   <!--Java-->
@@ -57,15 +57,11 @@
   <!--Python-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"></code>
   <!--Ruby-->
-<code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ruby.svg"></code>
-
-<!--SAP-->
-<img src="" alt="SAP" height="40">
-
-
-
+  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ruby.svg"></code>
+   <!--Git-->
+  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"></code>
 </div>
-
+<br>
 <div align="center">
   <img 
     src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/img/main/download20220803204714.png" 
