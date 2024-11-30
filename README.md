@@ -14,6 +14,9 @@
 ### 🛠️ Skills
 
 <div align="center">
+  <!--
+    Peguei os icons no repositorio https://github.com/tandpfun/skill-icons
+  -->
   <!--ABAP-SAP-->
   <code><img height="45" src="https://github.com/GabrielCordeiroBarrosoTeles/img/blob/main/imagem_2024-11-29_234458235.png?raw=true"></code>
   <!--HTML-->
@@ -49,7 +52,7 @@
   <!--Laravel-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg"></code>
   <!--mySQL-->
-  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg"></code>
   <!--Arduino-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg"></code>
   <!--C++-->
