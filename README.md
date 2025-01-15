@@ -4,12 +4,11 @@
 <div align="center">
   <a href="https://github.com/GabrielCordeiroBarrosoTeles">
     <!-- Uncomment this to include your GitHub Stats card -->
-    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCordeiroBarrosoTeles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCordeiroBarrosoTeles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCordeiroBarrosoTeles&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
-![glaucia86's Stats](https://github-readme-stats.vercel.app/api?username=GabrielCordeiroBarrosoTeles&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 
 ---
