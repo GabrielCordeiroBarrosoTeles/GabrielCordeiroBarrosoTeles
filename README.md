@@ -8,6 +8,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCordeiroBarrosoTeles&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
+
 ![glaucia86's Stats](https://github-readme-stats.vercel.app/api?username=GabrielCordeiroBarrosoTeles&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 
