@@ -97,5 +97,4 @@
   </a>
 </div>
 
-<picture align="center" >
 # ![snake gif](https://github.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/blob/output/github-contribution-grid-snake.gif)
