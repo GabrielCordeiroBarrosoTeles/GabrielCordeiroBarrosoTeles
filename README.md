@@ -1,6 +1,7 @@
 <!-- Parte superior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=header"/>
 
+---
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px">Hi, I'm Gabriel Cordeiro!  
 ### ABAP Programming Student | Full Stack Developer  
 
@@ -106,7 +107,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+---
 <!-- Parte inferior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
