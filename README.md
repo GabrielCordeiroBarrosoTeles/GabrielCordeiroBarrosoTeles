@@ -25,6 +25,8 @@
   -->
   <!--ABAP-SAP-->
   <code><img height="45" src="https://github.com/GabrielCordeiroBarrosoTeles/img/blob/main/imagem_2024-11-29_234458235.png?raw=true"></code>
+  <!--Swift-->
+  <code><img height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Swift.svg"></code>
   <!--HTML-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"></code>
   <!--CSS-->
@@ -59,6 +61,8 @@
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg"></code>
   <!--Laravel-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg"></code>
+  <!--Docker-->
+  <code><img height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg"></code>
   <!--mySQL-->
   <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg"></code>
   <!--MongoDB-->
