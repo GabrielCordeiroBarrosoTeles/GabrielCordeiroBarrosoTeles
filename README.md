@@ -1,4 +1,4 @@
-## Hi, I'm Gabriel Cordeiro!  
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px">Hi, I'm Gabriel Cordeiro!  
 ### ABAP Programming Student | Full Stack Developer  
 
 <div align="center">
