@@ -8,8 +8,9 @@
 <div align="center">
   <a href="https://github.com/GabrielCordeiroBarrosoTeles">
     <!-- Uncomment this to include your GitHub Stats card -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCordeiroBarrosoTeles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCordeiroBarrosoTeles&layout=compact&langs_count=7&theme=dark"/>
+  <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCordeiroBarrosoTeles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+    <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCordeiroBarrosoTeles&layout=compact&langs_count=7&theme=dark"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielCordeiroBarrosoTeles&theme=dark" alt="Github estatísticas"/>
   </a>
 </div>
 
