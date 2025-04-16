@@ -4,7 +4,7 @@
 ---
 <span style="display: inline-flex; align-items: center; gap: 8px;">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
-       style="width: 38px; height: 38px; object-fit: contain;" />
+       style="width: 48px; height: 68px; object-fit: contain;" />
   <a href="https://git.io/typing-svg" style="display: inline-flex; align-items: center;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=395&lines=Hi%2C+I'm+Gabriel+Cordeiro!"
          alt="Typing SVG"
