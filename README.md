@@ -31,7 +31,7 @@
 
 ## 🌟 Sobre Mim
 <img 
-    src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/img/main/download20220803204714.png" 
+    src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/Imgs_repositorios/refs/heads/main/perfil/avatar.png" 
     alt="Gabriel's picture" 
     height="150" width="120" align="right"
     style="border-radius:50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" 
@@ -71,7 +71,7 @@ Sou desenvolvedor Full-Stack com experiência na criação de soluções web rob
     Peguei os icons no repositorio https://github.com/tandpfun/skill-icons
   -->
   <!--ABAP-SAP-->
-  <code><img height="45" src="https://github.com/GabrielCordeiroBarrosoTeles/img/blob/main/imagem_2024-11-29_234458235.png?raw=true"></code>
+  <code><img height="45" src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/Imgs_repositorios/refs/heads/main/perfil/sap.png"></code>
   <!--Swift-->
   <code><img height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Swift.svg"></code>
   <!--HTML-->
