@@ -152,6 +152,17 @@ Snake
 ###
 ---
 
+<div align="center">
+
+### Visualizações de Perfil  
+A contagem de visitantes desta página nesta seção começou em 4 de jul de 2025.
+
+![:GabrielCordeiroBarrosoTeles](https://count.getloli.com/get/@:GabrielCordeiroBarrosoTeles)
+
+</div>
+
+---
+
 <img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="150" alt="Naruto hokage" />
 
 > _"Não é a linguagem de programação que define o programador, mas sim sua lógica."_ 👨‍💻  
