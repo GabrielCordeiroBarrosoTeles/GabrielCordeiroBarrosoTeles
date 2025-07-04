@@ -150,6 +150,16 @@ Snake
 </picture>
 
 ###
+
+
+---
+
+<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="150" alt="Naruto hokage" />
+
+> _"Não é a linguagem de programação que define o programador, mas sim sua lógica."_ 👨‍💻  
+> — **David Ribeiro Guilherme**
+<br>
+
 ---
 
 <div align="center">
@@ -163,14 +173,6 @@ A contagem de visitantes desta página nesta seção começou em 4 de jul de 202
 
 ---
 
-<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="150" alt="Naruto hokage" />
-
-> _"Não é a linguagem de programação que define o programador, mas sim sua lógica."_ 👨‍💻  
-> — **David Ribeiro Guilherme**
-<br>
-
-
----
 <!-- Parte inferior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
