@@ -38,8 +38,7 @@
   />
 
 
-Sou desenvolvedor Full-Stack com experiência na criação de soluções web robustas e funcionais. Tenho conhecimento em ABAP, o que fortalece minha atuação na integração de tecnologias e sistemas corporativos. Atualmente, curso Engenharia de Software e estou sempre em busca de aprendizado contínuo e desafios que me permitam evoluir profissionalmente. Estou aberto a novas oportunidades onde eu possa aplicar e expandir minhas habilidades.
-
+I am a Full-Stack Developer with experience in building robust and functional web solutions. I have knowledge of ABAP, which strengthens my ability to integrate technologies and corporate systems. I am currently studying Software Engineering and I am always seeking continuous learning and challenges that allow me to grow professionally. I am open to new opportunities where I can apply and expand my skills.
 
 
 <div align="center">
@@ -159,7 +158,7 @@ Snake
 
 <img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="150" alt="Naruto hokage" />
 
-> _"Não é a linguagem de programação que define o programador, mas sim sua lógica."_ 👨‍💻  
+> _"It is not the programming language that defines the programmer, but their logic."_ 👨‍💻  
 > — **David Ribeiro Guilherme**
 <br>
 
@@ -168,7 +167,7 @@ Snake
 <div align="center">
 
 ### Visualizações de Perfil  
-A contagem de visitantes desta página nesta seção começou em 4 de jul de 2025.
+The visitor count for this page in this section started on July 4, 2025.
 
 ![:GabrielCordeiroBarrosoTeles](https://count.getloli.com/get/@:GabrielCordeiroBarrosoTeles)
 
