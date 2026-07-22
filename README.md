@@ -20,7 +20,7 @@
 ---
 
 ## Sobre mim
-
+ 
 <img
     src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/Imgs_repositorios/refs/heads/main/perfil/avatar.png"
     alt="Gabriel's picture"
