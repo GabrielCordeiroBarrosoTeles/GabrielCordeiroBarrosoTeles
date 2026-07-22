@@ -109,7 +109,10 @@ Aplicativo Android desenvolvido com Kotlin Multiplatform e Android Accessibility
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/main/metrics.svg" alt="GitHub metrics" width="100%"/>
+  <img src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/main/profile/stats.svg" height="180em" alt="GitHub stats"/>
+  <img src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/main/profile/top-langs.svg" height="180em" alt="Top linguagens"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=GabrielCordeiroBarrosoTeles&theme=dark" alt="GitHub streak"/>
 </div>
 
 <div align="center">
