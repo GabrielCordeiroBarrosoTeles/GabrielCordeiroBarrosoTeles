@@ -99,7 +99,8 @@ Aplicativo Android desenvolvido com Kotlin Multiplatform e Android Accessibility
 
 <br clear="right"/>
 
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Accessibility Service](https://img.shields.io/badge/Accessibility_Service-333333?style=flat-square)
 
