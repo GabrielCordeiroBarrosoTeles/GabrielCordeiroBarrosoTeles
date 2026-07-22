@@ -1,9 +1,20 @@
 name: Update README cards
 
 # Gera os mesmos cards do github-readme-stats.vercel.app (visual idêntico),
-# mas rodando no teu próprio repo via Action — usa o GITHUB_TOKEN padrão
-# (não precisa criar PAT nem conta na Vercel), sem depender da instância
+# mas rodando no teu próprio repo via Action, sem depender da instância
 # pública compartilhada que fica sem ar por rate limit.
+#
+# O card "stats" precisa contar estrelas/commits/PRs/issues em TODOS os
+# teus repos — isso exige um token com escopo amplo. O GITHUB_TOKEN padrão
+# do Actions só enxerga o repo onde ele roda, por isso dá
+# "Resource not accessible by integration" nesse card específico.
+#
+# Setup necessário (passo manual, só você consegue fazer):
+# 1. Criar um Personal Access Token classic em github.com/settings/tokens
+#    com escopo "repo" (as options abaixo têm count_private=true, ou seja,
+#    contam repositórios privados também — "public_repo" não é suficiente)
+# 2. Settings > Secrets and variables > Actions > New repository secret
+#    Nome: STATS_TOKEN | Valor: o token criado acima
 
 on:
   schedule:
@@ -28,7 +39,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&include_all_commits=true&count_private=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Gerar card de top languages
         uses: readme-tools/github-readme-stats-action@v1
@@ -36,7 +47,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=dark
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commitar cards
         run: |
