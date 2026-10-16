@@ -90,21 +90,64 @@ Tenho interesse em back-end, mobile e arquitetura de software, buscando construi
 
 ---
 
-## Projeto em destaque
+## Projetos em destaque
+
+### Reflect for Android
+
+<p align="center">
+  <a href="https://github.com/GabrielCordeiroBarrosoTeles/reflect-android"><img src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/reflect-android/main/assets/icon.png" alt="Logo do Reflect for Android" width="120"/></a>
+</p>
+
+Extensão **gratuita e open source** para o VS Code que espelha e controla um celular Android real pelo cabo USB, direto no editor, sem emulador. Tem inspector de componentes React Native e Expo: passa o mouse na tela do celular e o componente fica marcado igual ao DevTools do navegador (conteúdo, padding e margem), mostrando o arquivo e a linha do código. Também faz print e gravação de tela direto no clipboard, reload e dev menu do React Native com atalho e reconexão automática. Feita em TypeScript com 100% de cobertura de testes.
+
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=GabrielCordeiro.reflect-android"><img src="https://img.shields.io/badge/Instalar_no_VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Instalar no VS Code" height="30"/></a>
+  <a href="https://github.com/GabrielCordeiroBarrosoTeles/reflect-android"><img src="https://img.shields.io/badge/Código_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código no GitHub" height="30"/></a>
+</p>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![VS Code Extension](https://img.shields.io/badge/VS_Code_Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![scrcpy](https://img.shields.io/badge/scrcpy-333333?style=flat-square)
+![WebCodecs](https://img.shields.io/badge/WebCodecs-333333?style=flat-square)
+
+### Tô Lembrado
+
+<p align="center">
+  <a href="https://tolembrado.com.br"><img src="https://tolembrado.com.br/icon.png" alt="Logo do Tô Lembrado" width="120"/></a>
+</p>
+
+Assistente de IA no WhatsApp. A pessoa encaminha o que não quer esquecer (mensagem, áudio, print, foto, PDF, endereço ou boleto) e o Tô Lembrado transforma em algo útil: compromisso na agenda, lembrete, alerta de conta, endereço pronto pro mapa, contato salvo ou rastreio de encomenda. É só responder SIM, EDITAR ou NÃO. Tem site com área do usuário e app Android e iOS, todos com 100% de cobertura de testes.
+
+<p align="center">
+  <a href="https://tolembrado.com.br"><img src="https://img.shields.io/badge/Conhecer_o_Tô_Lembrado-E34B16?style=for-the-badge" alt="Conhecer o Tô Lembrado" height="30"/></a>
+</p>
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
 ### RidePromo
-<img src="https://ridepromo.com.br/logo_ridepromo_splash.png" alt="RidePromo logo" height="60" align="right"/>
+
+<p align="center">
+  <a href="https://ridepromo.com.br"><img src="https://ridepromo.com.br/logo_ridepromo_splash.png" alt="Logo do RidePromo" width="120"/></a>
+</p>
 
 Aplicativo Android desenvolvido com Kotlin Multiplatform e Android Accessibility Service, para integração com aplicativos de ridesharing. Monitora em tempo real informações exibidas por outros aplicativos e aplica descontos automaticamente. Publicado na Google Play Store, em fase de validação de mercado.
 
-<br clear="right"/>
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=br.com.ridepromo.driver"><img src="https://img.shields.io/badge/Baixar_na_Play_Store-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Baixar na Play Store" height="30"/></a>
+  <a href="https://ridepromo.com.br"><img src="https://img.shields.io/badge/Conhecer_o_RidePromo-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Conhecer o RidePromo" height="30"/></a>
+</p>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Accessibility Service](https://img.shields.io/badge/Accessibility_Service-333333?style=flat-square)
-
-<!-- TODO: adicionar link da Play Store -->
 
 ---
 
