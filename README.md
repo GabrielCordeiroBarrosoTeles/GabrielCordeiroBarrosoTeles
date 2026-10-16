@@ -55,36 +55,9 @@ Valorizo **arquitetura de software**, **Clean Code**, **SOLID**, **design patter
 
 ## Stack
 
-<table>
-  <tr>
-    <td><b>Back-end</b></td>
-    <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/> <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" alt="BullMQ"/> <img src="https://img.shields.io/badge/REST_APIs-555555?style=flat-square" alt="REST APIs"/></td>
-  </tr>
-  <tr>
-    <td><b>Front-end</b></td>
-    <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></td>
-  </tr>
-  <tr>
-    <td><b>Mobile</b></td>
-    <td><img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/> <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/> <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose Multiplatform"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></td>
-  </tr>
-  <tr>
-    <td><b>Banco de dados</b></td>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/></td>
-  </tr>
-  <tr>
-    <td><b>DevOps & Infra</b></td>
-    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></td>
-  </tr>
-  <tr>
-    <td><b>Testes</b></td>
-    <td><img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/> <img src="https://img.shields.io/badge/Testes_automatizados-2E7D32?style=flat-square" alt="Testes automatizados"/> <img src="https://img.shields.io/badge/100%25_de_cobertura-2E7D32?style=flat-square" alt="100% de cobertura"/></td>
-  </tr>
-  <tr>
-    <td><b>Práticas</b></td>
-    <td><img src="https://img.shields.io/badge/Clean_Code-444444?style=flat-square" alt="Clean Code"/> <img src="https://img.shields.io/badge/SOLID-444444?style=flat-square" alt="SOLID"/> <img src="https://img.shields.io/badge/Design_Patterns-444444?style=flat-square" alt="Design Patterns"/> <img src="https://img.shields.io/badge/Arquitetura_de_Software-444444?style=flat-square" alt="Arquitetura de Software"/> <img src="https://img.shields.io/badge/CI%2FCD-444444?style=flat-square" alt="CI/CD"/> <img src="https://img.shields.io/badge/Scrum_%26_Kanban-444444?style=flat-square" alt="Scrum &amp; Kanban"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,php,laravel,prisma,react,nextjs,tailwind,kotlin,androidstudio,swift,postgres,mysql,redis,firebase,docker,githubactions,cloudflare,linux,git,jest,vitest&perline=12" alt="TypeScript, Node.js, NestJS, PHP, Laravel, Prisma, React, Next.js, Tailwind CSS, Kotlin, Android, Swift, PostgreSQL, MySQL, Redis, Firebase, Docker, GitHub Actions, Cloudflare, Linux, Git, Jest, Vitest"/>
+</p>
 
 ---
 
