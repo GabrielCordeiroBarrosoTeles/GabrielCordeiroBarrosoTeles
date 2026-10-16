@@ -1,32 +1,19 @@
-<!-- Este README é para o repositório de perfil GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles,
-     NÃO tem relação com o código do Engaja360. Guardado aqui só por conveniência. -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=header"/>
-
 <div align="center">
-  <span style="display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
-         style="width: 48px; height: 68px; object-fit: contain;" />
-    <a href="https://git.io/typing-svg" style="display: inline-flex; align-items: center;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=395&lines=Hi%2C+I'm+Gabriel+Cordeiro!"
-           alt="Typing SVG"
-           style="object-fit: contain; transform: translateY(2px);" />
-    </a>
-  </span>
+  <h1>Gabriel Cordeiro</h1>
+  <p><b>Desenvolvedor Full Stack · Web & Mobile</b></p>
+  <p>TypeScript · Node.js · NestJS · React · React Native · Kotlin Multiplatform</p>
 
-  ### Desenvolvedor Full Stack — Web & Mobile
+  <a href="https://www.linkedin.com/in/gabriel-cordeiro-barroso/"><img src="https://img.shields.io/badge/LinkedIn-1F2328?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/></a>
+  <a href="mailto:gabrielcordeirobarroso@gmail.com"><img src="https://img.shields.io/badge/Email-1F2328?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/></a>
+  <a href="https://wa.me/5585997752571"><img src="https://img.shields.io/badge/WhatsApp-1F2328?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="28"/></a>
+  <a href="https://www.instagram.com/gbielcordeiro85/"><img src="https://img.shields.io/badge/Instagram-1F2328?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28"/></a>
 </div>
 
 ---
 
 ## Sobre mim
- 
-<img
-    src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/Imgs_repositorios/refs/heads/main/perfil/avatar.png"
-    alt="Gabriel's picture"
-    height="150" width="120" align="right"
-    style="border-radius:50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"
-  />
+
+<img src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/Imgs_repositorios/refs/heads/main/perfil/avatar.png" alt="Foto de Gabriel Cordeiro" width="120" align="right"/>
 
 Desenvolvedor **Full Stack** com foco em **Mobile** e **Back-end**. Construo produtos de ponta a ponta: **APIs REST** em **Node.js/NestJS** e **PHP/Laravel**, interfaces em **React** e **Next.js**, e apps **Android e iOS** com **React Native (Expo)** e **Kotlin Multiplatform**, sempre em **TypeScript** quando possível.
 
@@ -35,21 +22,6 @@ No dia a dia trabalho com **plataformas de mobilidade urbana** em produção (ap
 Valorizo **arquitetura de software**, **Clean Code**, **SOLID**, **design patterns**, **testes automatizados** (100% de cobertura nos meus projetos), **CI/CD** e **performance**.
 
 <br clear="right"/>
-
-<div align="center">
-  <a href="https://wa.me/5585997752571">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp" />
-  </a>
-  <a href="https://www.instagram.com/gbielcordeiro85/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35" >
-  </a>
-  <a href="mailto:gabrielcordeirobarroso@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35">
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-cordeiro-barroso/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
-  </a>
-</div>
 
 ---
 
@@ -103,33 +75,13 @@ Valorizo **arquitetura de software**, **Clean Code**, **SOLID**, **design patter
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/main/profile/top-langs.svg" height="180em" alt="Top linguagens"/>
-  <img src="https://streak-stats.demolab.com/?user=GabrielCordeiroBarrosoTeles&theme=dark" height="180em" alt="GitHub streak"/>
-</div>
+## GitHub
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/main/profile/top-langs.svg" height="170" alt="Linguagens mais usadas"/>
+  <img src="https://streak-stats.demolab.com/?user=GabrielCordeiroBarrosoTeles&theme=github-dark-blue&hide_border=true&background=0D111700" height="170" alt="Sequência de contribuições no GitHub"/>
 </div>
 
 ---
 
-<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="150" alt="Naruto hokage" />
-
-> _"It is not the programming language that defines the programmer, but their logic."_ 👨‍💻
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-![:GabrielCordeiroBarrosoTeles](https://count.getloli.com/get/@:GabrielCordeiroBarrosoTeles)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=footer"/>
+<p align="center"><sub><i>"It is not the programming language that defines the programmer, but their logic."</i></sub></p>
