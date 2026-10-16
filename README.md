@@ -28,9 +28,11 @@
     style="border-radius:50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"
   />
 
-Sou desenvolvedor Full Stack Web & Mobile, com experiência no desenvolvimento de aplicações web e mobile. Trabalho principalmente com TypeScript, Node.js, NestJS, React, Next.js, PHP, Laravel, Kotlin Multiplatform e React Native.
+Desenvolvedor **Full Stack** com foco em **Mobile** e **Back-end**. Construo produtos de ponta a ponta: **APIs REST** em **Node.js/NestJS** e **PHP/Laravel**, interfaces em **React** e **Next.js**, e apps **Android e iOS** com **React Native (Expo)** e **Kotlin Multiplatform**, sempre em **TypeScript** quando possível.
 
-Tenho interesse em back-end, mobile e arquitetura de software, buscando construir aplicações modernas, escaláveis e bem estruturadas.
+No dia a dia trabalho com **plataformas de mobilidade urbana** em produção (apps de motorista e passageiro, painéis administrativos e APIs) e mantenho produtos próprios: uma **extensão open source para VS Code**, um **assistente de IA no WhatsApp** e um **app Android publicado na Play Store**.
+
+Valorizo **arquitetura de software**, **Clean Code**, **SOLID**, **design patterns**, **testes automatizados** (100% de cobertura nos meus projetos), **CI/CD** e **performance**.
 
 <br clear="right"/>
 
@@ -53,101 +55,78 @@ Tenho interesse em back-end, mobile e arquitetura de software, buscando construi
 
 ## Stack
 
-<div align="center">
-
-**Back-end**
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-**Front-end**
-<br/>
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Mobile**
-<br/>
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Banco de dados & Infra**
-<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-<sub>Também sigo boas práticas de arquitetura de software e metodologias ágeis no dia a dia.</sub>
+<table>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/> <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" alt="BullMQ"/> <img src="https://img.shields.io/badge/REST_APIs-555555?style=flat-square" alt="REST APIs"/></td>
+  </tr>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td><img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/> <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/> <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose Multiplatform"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></td>
+  </tr>
+  <tr>
+    <td><b>Banco de dados</b></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Infra</b></td>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></td>
+  </tr>
+  <tr>
+    <td><b>Testes</b></td>
+    <td><img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/> <img src="https://img.shields.io/badge/Testes_automatizados-2E7D32?style=flat-square" alt="Testes automatizados"/> <img src="https://img.shields.io/badge/100%25_de_cobertura-2E7D32?style=flat-square" alt="100% de cobertura"/></td>
+  </tr>
+  <tr>
+    <td><b>Práticas</b></td>
+    <td><img src="https://img.shields.io/badge/Clean_Code-444444?style=flat-square" alt="Clean Code"/> <img src="https://img.shields.io/badge/SOLID-444444?style=flat-square" alt="SOLID"/> <img src="https://img.shields.io/badge/Design_Patterns-444444?style=flat-square" alt="Design Patterns"/> <img src="https://img.shields.io/badge/Arquitetura_de_Software-444444?style=flat-square" alt="Arquitetura de Software"/> <img src="https://img.shields.io/badge/CI%2FCD-444444?style=flat-square" alt="CI/CD"/> <img src="https://img.shields.io/badge/Scrum_%26_Kanban-444444?style=flat-square" alt="Scrum &amp; Kanban"/></td>
+  </tr>
+</table>
 
 ---
 
 ## Projetos em destaque
 
-### Reflect for Android
-
-<p align="center">
-  <a href="https://github.com/GabrielCordeiroBarrosoTeles/reflect-android"><img src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/reflect-android/main/assets/icon.png" alt="Logo do Reflect for Android" width="120"/></a>
-</p>
-
-Extensão **gratuita e open source** para o VS Code que espelha e controla um celular Android real pelo cabo USB, direto no editor, sem emulador. Tem inspector de componentes React Native e Expo: passa o mouse na tela do celular e o componente fica marcado igual ao DevTools do navegador (conteúdo, padding e margem), mostrando o arquivo e a linha do código. Também faz print e gravação de tela direto no clipboard, reload e dev menu do React Native com atalho e reconexão automática. Feita em TypeScript com 100% de cobertura de testes.
-
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=GabrielCordeiro.reflect-android"><img src="https://img.shields.io/badge/Instalar_no_VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Instalar no VS Code" height="30"/></a>
-  <a href="https://github.com/GabrielCordeiroBarrosoTeles/reflect-android"><img src="https://img.shields.io/badge/Código_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código no GitHub" height="30"/></a>
-</p>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![VS Code Extension](https://img.shields.io/badge/VS_Code_Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![scrcpy](https://img.shields.io/badge/scrcpy-333333?style=flat-square)
-![WebCodecs](https://img.shields.io/badge/WebCodecs-333333?style=flat-square)
-
-### Tô Lembrado
-
-<p align="center">
-  <a href="https://tolembrado.com.br"><img src="https://tolembrado.com.br/icon.png" alt="Logo do Tô Lembrado" width="120"/></a>
-</p>
-
-Assistente de IA no WhatsApp. A pessoa encaminha o que não quer esquecer (mensagem, áudio, print, foto, PDF, endereço ou boleto) e o Tô Lembrado transforma em algo útil: compromisso na agenda, lembrete, alerta de conta, endereço pronto pro mapa, contato salvo ou rastreio de encomenda. É só responder SIM, EDITAR ou NÃO. Tem site com área do usuário e app Android e iOS, todos com 100% de cobertura de testes.
-
-<p align="center">
-  <a href="https://tolembrado.com.br"><img src="https://img.shields.io/badge/Conhecer_o_Tô_Lembrado-E34B16?style=for-the-badge" alt="Conhecer o Tô Lembrado" height="30"/></a>
-</p>
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-
-### RidePromo
-
-<p align="center">
-  <a href="https://ridepromo.com.br"><img src="https://ridepromo.com.br/logo_ridepromo_splash.png" alt="Logo do RidePromo" width="120"/></a>
-</p>
-
-Aplicativo Android desenvolvido com Kotlin Multiplatform e Android Accessibility Service, para integração com aplicativos de ridesharing. Monitora em tempo real informações exibidas por outros aplicativos e aplica descontos automaticamente. Publicado na Google Play Store, em fase de validação de mercado.
-
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=br.com.ridepromo.driver"><img src="https://img.shields.io/badge/Baixar_na_Play_Store-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Baixar na Play Store" height="30"/></a>
-  <a href="https://ridepromo.com.br"><img src="https://img.shields.io/badge/Conhecer_o_RidePromo-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Conhecer o RidePromo" height="30"/></a>
-</p>
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Accessibility Service](https://img.shields.io/badge/Accessibility_Service-333333?style=flat-square)
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <a href="https://github.com/GabrielCordeiroBarrosoTeles/reflect-android"><img src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/reflect-android/main/assets/icon.png" alt="Logo do Reflect for Android" width="96"/></a>
+      <h3>Reflect for Android</h3>
+      <sub><b>EXTENSÃO VS CODE · OPEN SOURCE</b></sub>
+      <p>Espelha e controla um celular Android real dentro do VS Code, sem emulador. Inspector de componentes React Native igual ao DevTools do navegador, print e gravação de tela.</p>
+      <a href="https://marketplace.visualstudio.com/items?itemName=GabrielCordeiro.reflect-android"><img src="https://img.shields.io/badge/Instalar_no_VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Instalar no VS Code" height="26"/></a><br/><a href="https://github.com/GabrielCordeiroBarrosoTeles/reflect-android"><img src="https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" height="26"/></a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <a href="https://tolembrado.com.br"><img src="https://tolembrado.com.br/icon.png" alt="Logo do Tô Lembrado" width="96"/></a>
+      <h3>Tô Lembrado</h3>
+      <sub><b>ASSISTENTE DE IA NO WHATSAPP</b></sub>
+      <p>Encaminhe o que não quer esquecer (áudio, print, PDF, boleto) e ele vira compromisso, lembrete, alerta de conta ou rastreio. É só responder SIM, EDITAR ou NÃO.</p>
+      <a href="https://tolembrado.com.br"><img src="https://img.shields.io/badge/Conhecer-E34B16?style=for-the-badge" alt="Conhecer" height="26"/></a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <a href="https://ridepromo.com.br"><img src="https://ridepromo.com.br/icon-512.png" alt="Logo do RidePromo" width="96"/></a>
+      <h3>RidePromo</h3>
+      <sub><b>APP ANDROID · PLAY STORE</b></sub>
+      <p>Integra com apps de corrida usando Accessibility Service: lê em tempo real o que aparece na tela e aplica descontos automaticamente.</p>
+      <a href="https://play.google.com/store/apps/details?id=br.com.ridepromo.driver"><img src="https://img.shields.io/badge/Baixar_na_Play_Store-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Baixar na Play Store" height="26"/></a><br/><a href="https://ridepromo.com.br"><img src="https://img.shields.io/badge/Conhecer-F26B0F?style=for-the-badge" alt="Conhecer" height="26"/></a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square" alt="KMP"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
