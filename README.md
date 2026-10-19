@@ -13,11 +13,9 @@
 
 ## Sobre mim
 
-<img src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/Imgs_repositorios/refs/heads/main/perfil/avatar.png" alt="Foto de Gabriel Cordeiro" width="120" align="right"/>
-
 Desenvolvedor **Full Stack** com foco em **Mobile** e **Back-end**. Construo produtos de ponta a ponta: **APIs REST** em **Node.js/NestJS** e **PHP/Laravel**, interfaces em **React** e **Next.js**, e apps **Android e iOS** com **React Native (Expo)** e **Kotlin Multiplatform**, sempre em **TypeScript** quando possível.
 
-No dia a dia trabalho com **plataformas de mobilidade urbana** em produção (apps de motorista e passageiro, painéis administrativos e APIs) e mantenho produtos próprios: uma **extensão open source para VS Code**, um **assistente de IA no WhatsApp** e um **app Android publicado na Play Store**.
+No dia a dia trabalho com **plataformas de mobilidade urbana** em produção (apps de motorista e passageiro, painéis administrativos e APIs) e mantenho produtos próprios: duas **extensões open source para VS Code**, um **assistente de IA no WhatsApp** e um **app Android publicado na Play Store**.
 
 Valorizo **arquitetura de software**, **Clean Code**, **SOLID**, **design patterns**, **testes automatizados** (100% de cobertura nos meus projetos), **CI/CD** e **performance**.
 
