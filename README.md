@@ -37,7 +37,7 @@ Valorizo **arquitetura de software**, **Clean Code**, **SOLID**, **design patter
 
 <table>
   <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="50%">
       <br/>
       <a href="https://github.com/GabrielCordeiroBarrosoTeles/reflect-android"><img src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/reflect-android/main/assets/icon.png" alt="Logo do Reflect for Android" width="96"/></a>
       <h3>Reflect for Android</h3>
@@ -48,7 +48,20 @@ Valorizo **arquitetura de software**, **Clean Code**, **SOLID**, **design patter
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
       <br/><br/>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="50%">
+      <br/>
+      <a href="https://github.com/GabrielCordeiroBarrosoTeles/kit-dev-brasil"><img src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/kit-dev-brasil/main/assets/icon.svg" alt="Logo do Kit Dev Brasil" width="96"/></a>
+      <h3>Kit Dev Brasil</h3>
+      <sub><b>EXTENSÃO VS CODE · EM DESENVOLVIMENTO</b></sub>
+      <p>O 4Devs dentro do VS Code: gere e valide CPF, CNPJ e dados de teste, e entenda PIX copia-e-cola e boleto sem sair do editor. Tudo local.</p>
+      <a href="https://github.com/GabrielCordeiroBarrosoTeles/kit-dev-brasil"><img src="https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" height="26"/></a><br/><a href="https://github.com/users/GabrielCordeiroBarrosoTeles/projects/4"><img src="https://img.shields.io/badge/Roadmap-0B7A3B?style=for-the-badge" alt="Roadmap" height="26"/></a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/VS_Code_Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code Extension"/> <img src="https://img.shields.io/badge/PIX-32BCAD?style=flat-square" alt="PIX"/>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
       <br/>
       <a href="https://tolembrado.com.br"><img src="https://tolembrado.com.br/icon.png" alt="Logo do Tô Lembrado" width="96"/></a>
       <h3>Tô Lembrado</h3>
@@ -59,7 +72,7 @@ Valorizo **arquitetura de software**, **Clean Code**, **SOLID**, **design patter
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
       <br/><br/>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="50%">
       <br/>
       <a href="https://ridepromo.com.br"><img src="https://ridepromo.com.br/icon-512.png" alt="Logo do RidePromo" width="96"/></a>
       <h3>RidePromo</h3>
