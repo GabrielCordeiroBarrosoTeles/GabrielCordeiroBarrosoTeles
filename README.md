@@ -50,11 +50,11 @@ Valorizo **arquitetura de software**, **Clean Code**, **SOLID**, **design patter
     </td>
     <td align="center" valign="top" width="50%">
       <br/>
-      <a href="https://github.com/GabrielCordeiroBarrosoTeles/kit-dev-brasil"><img src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/kit-dev-brasil/main/assets/icon.svg" alt="Logo do Kit Dev Brasil" width="96"/></a>
+      <a href="https://github.com/GabrielCordeiroBarrosoTeles/kit-dev-brasil"><img src="https://raw.githubusercontent.com/GabrielCordeiroBarrosoTeles/kit-dev-brasil/main/assets/icon.png" alt="Logo do Kit Dev Brasil" width="96"/></a>
       <h3>Kit Dev Brasil</h3>
-      <sub><b>EXTENSÃO VS CODE · EM DESENVOLVIMENTO</b></sub>
-      <p>O 4Devs dentro do VS Code: gere e valide CPF, CNPJ e dados de teste, e entenda PIX copia-e-cola e boleto sem sair do editor. Tudo local.</p>
-      <a href="https://github.com/GabrielCordeiroBarrosoTeles/kit-dev-brasil"><img src="https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" height="26"/></a><br/><a href="https://github.com/users/GabrielCordeiroBarrosoTeles/projects/4"><img src="https://img.shields.io/badge/Roadmap-0B5D3B?style=for-the-badge" alt="Roadmap" height="26"/></a>
+      <sub><b>EXTENSÃO VS CODE · OPEN SOURCE</b></sub>
+      <p>O 4Devs dentro do VS Code: pessoas e empresas fictícias com CEP, DDD e documentos coerentes, 17 documentos brasileiros, leitura de boleto e PIX de teste com QR code. Tudo offline.</p>
+      <a href="https://marketplace.visualstudio.com/items?itemName=GabrielCordeiro.kit-dev-brasil"><img src="https://img.shields.io/badge/Instalar_no_VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Instalar no VS Code" height="26"/></a><br/><a href="https://github.com/GabrielCordeiroBarrosoTeles/kit-dev-brasil"><img src="https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" height="26"/></a>
       <br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/VS_Code_Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code Extension"/> <img src="https://img.shields.io/badge/PIX-32BCAD?style=flat-square" alt="PIX"/>
       <br/><br/>
