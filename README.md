@@ -65,9 +65,9 @@ Valorizo **arquitetura de software**, **Clean Code**, **SOLID**, **design patter
       <br/>
       <a href="https://tolembrado.com.br"><img src="https://tolembrado.com.br/icon.png" alt="Logo do Tô Lembrado" width="96"/></a>
       <h3>Tô Lembrado</h3>
-      <sub><b>ASSISTENTE DE IA NO WHATSAPP</b></sub>
-      <p>Encaminhe o que não quer esquecer (áudio, print, PDF, boleto) e ele vira compromisso, lembrete, alerta de conta ou rastreio. É só responder SIM, EDITAR ou NÃO.</p>
-      <a href="https://tolembrado.com.br"><img src="https://img.shields.io/badge/Conhecer-E34B16?style=for-the-badge" alt="Conhecer" height="26"/></a>
+      <sub><b>ASSISTENTE PESSOAL · WHATSAPP, APP E ALEXA</b></sub>
+      <p>Manda do jeito que vier: mensagem, áudio, print, PDF ou boleto. Ele entende, organiza em compromisso, lembrete ou conta e te avisa na hora, no WhatsApp, no celular, no relógio e na Alexa.</p>
+      <sub><b>ONDE USAR</b></sub><br/><a href="https://www.amazon.com.br/dp/B0HRB35MXB"><img src="https://img.shields.io/badge/Alexa-00A6D6?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAwQzUuMzcgMCAwIDUuMzcgMCAxMkMwIDE4LjA5IDQuNTMgMjMuMTEgMTAuNCAyMy45VjIxLjVBMS41OSAxLjU5IDAgMCAwIDkuMzIgMTkuOTdBOC40MSA4LjQxIDAgMCAxIDMuNiAxMS44QTguMzcgOC4zNyAwIDAgMSAxMi4wOSAzLjZBOC40IDguNCAwIDAgMSAyMC40IDEyLjMxTDIwLjM5IDEyLjM4QTguNjggOC42OCAwIDAgMSAyMC4zNiAxMi43NkMyMC4zNiAxMi44MyAyMC4zNSAxMi45IDIwLjM0IDEyLjk2QzIwLjM0IDEzLjA0IDIwLjMzIDEzLjEyIDIwLjMyIDEzLjE5TDIwLjMgMTMuMjlDMTkuMjcgMjAuMDcgMTAuNDUgMjMuODcgMTAuNCAyMy45QzEwLjkyIDIzLjk3IDExLjQ2IDI0IDEyIDI0QzE4LjYzIDI0IDI0IDE4LjYzIDI0IDEyUzE4LjYzIDAgMTIgMFoiLz48L3N2Zz4=" alt="Ativar na Alexa" height="28"/></a> <img src="https://img.shields.io/badge/Google_Play-em_breve-555555?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=1A1A1A" alt="Google Play em breve" height="28"/> <img src="https://img.shields.io/badge/App_Store-em_breve-555555?style=for-the-badge&logo=apple&logoColor=white&labelColor=1A1A1A" alt="App Store em breve" height="28"/><br/><a href="https://tolembrado.com.br"><img src="https://img.shields.io/badge/Conhecer-E34B16?style=for-the-badge" alt="Conhecer" height="28"/></a>
       <br/><br/>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
       <br/><br/>
@@ -78,7 +78,7 @@ Valorizo **arquitetura de software**, **Clean Code**, **SOLID**, **design patter
       <h3>RidePromo</h3>
       <sub><b>APP ANDROID · PLAY STORE</b></sub>
       <p>Integra com apps de corrida usando Accessibility Service: lê em tempo real o que aparece na tela e aplica descontos automaticamente.</p>
-      <a href="https://play.google.com/store/apps/details?id=br.com.ridepromo.driver"><img src="https://img.shields.io/badge/Baixar_na_Play_Store-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Baixar na Play Store" height="26"/></a><br/><a href="https://ridepromo.com.br"><img src="https://img.shields.io/badge/Conhecer-F26B0F?style=for-the-badge" alt="Conhecer" height="26"/></a>
+      <a href="https://play.google.com/store/apps/details?id=br.com.ridepromo.driver"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" alt="Disponível no Google Play" height="62"/></a><br/><a href="https://ridepromo.com.br"><img src="https://img.shields.io/badge/Conhecer-F26B0F?style=for-the-badge" alt="Conhecer" height="28"/></a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square" alt="KMP"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
       <br/><br/>
